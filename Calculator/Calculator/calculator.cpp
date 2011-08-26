@@ -1,3 +1,9 @@
+/*
+Copyright 2011/2012 Wolfik/Mino/Xermon Main 
+Developer All rights reserved !!!
+*/
+
+
 #include <iostream>
 
 
